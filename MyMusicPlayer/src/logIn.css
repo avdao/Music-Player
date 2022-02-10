@@ -1,0 +1,61 @@
+.wp{
+    display: flex;
+    justify-content: center;
+
+}
+#secondContet{
+    height: 450px;
+    border:3px solid #eb443a;
+    background-color: #eb443a;
+    border-radius: 10% ;
+    margin: 20px;
+    width: 400px;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+
+#secondContet img{
+    width:200px;
+    height: 200px;
+}
+#logIn{
+    height: 450px;
+    width: 400px;
+    margin: 20px;
+    border:3px solid #eb443a;
+
+    border-radius: 10% ;
+
+}
+
+form{
+    text-align: center;
+    vertical-align: center;
+}
+
+#logIn a{
+    background-color: #eb443a;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    border-radius: 3px;
+
+    padding:25px;
+
+}
+label{
+    font-size: 20px;
+    color: #eb443a;
+}
+#naslov{
+    color: #eb443a;
+}
+input{
+    height: 40px;
+    width: 200px;
+    border-radius: 20px;
+}

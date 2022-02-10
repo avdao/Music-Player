@@ -1,0 +1,27 @@
+#mainContet{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#text{
+    width: 40%;
+}
+
+#text h1{
+    color: #eb443a;
+    text-align: center;
+}
+@media screen and (max-width: 600px) {
+#mainContet{
+    display: block;
+}
+    #text{
+        width: 90%;
+        padding: 20px;
+    }
+    #imgHome img{
+        width: 350px;
+        padding: 20px;
+    }
+}

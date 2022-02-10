@@ -1,0 +1,61 @@
+.imgADD{
+    position: absolute;
+    left: 72%;
+    padding: 3px;
+}
+#input{
+    margin: 25px;
+
+}
+.nav-link{
+    padding: 10px;
+}
+
+#lastContent{
+    padding:25px;
+}
+.form-group{
+    padding: 10px;
+}
+.buttton{
+    background-color: #eb443a;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin:10px;
+}
+#buttton{
+    background-color: #eb443a;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin:10px;
+}
+.mainTable{
+    width: 80%;
+    padding: 20px;
+    position: absolute;
+
+    left: 10%;
+}
+
+td{
+    width: 50px;
+    height: 85px;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+@media screen and (max-width: 600px) {
+    .buttton{
+        display: flex;
+        justify-content: center;
+    }
+}
+@media screen and (max-width: 300px) {
+    .mainTable{
+        width: 300px;
+    }
+}
