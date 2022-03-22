@@ -1,5 +1,5 @@
 # Music-Player
-# For Registration you can use this api
+# For registration you can use this api
  'http://localhost:8080/register' with this form:
 {
     "username":"",
