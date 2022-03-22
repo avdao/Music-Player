@@ -8,10 +8,10 @@
 }
 # Already sing in users :
 - "username":"user1"
-- "password":"user123",
+ "password":"user123",
 
 - "username":"user2"
-- "password":"adminadmin1",
+ "password":"adminadmin1",
 
 # Before starting the project you must go on  "npm install" on both terminals:
 mymusicplayer2
