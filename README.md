@@ -6,7 +6,7 @@
    - "email":"",
    - "password":""
 }
-# Already sing in users :
+# Already sign in users :
 - "username":"user1"
  "password":"user123",
 
