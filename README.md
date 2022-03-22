@@ -1,24 +1,23 @@
 # Music-Player
-# Pošto je registracija uradjena preko bekenda(lično sam koristio Postman za testiranje)
-u slučaju da želite testirat
-na apiju 'http://localhost:8080/register' koristite ovu formu:
+# For Registration you can use this api
+ 'http://localhost:8080/register' with this form:
 {
     "username":"",
     "email":"",
     "password":""
 }
-Sifre korisnika koji su već sada prijavljeni :
+Already sing in users :
 "username":"user1"
 "password":"user123",
 
 "username":"user2"
 "password":"adminadmin1",
 
-# Prilikom pokretanja pokrenuti prvo "npm install" na oba terminala:
+# Before starting the project you must go on  "npm install" on both terminal:
 mymusicplayer2
 mymusicplayer2(Backend)
 
-Te nakon završeni instalacija pokrenuti:
+# And after that you can start the project with this command :
 
 # mymusicplayer2(Backend)->node index.js
 
