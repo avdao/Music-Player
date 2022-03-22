@@ -2,11 +2,11 @@
 # For registration you can use this api
  'http://localhost:8080/register' with this form:
 {
-    "username":"",
-    "email":"",
-    "password":""
+   - "username":"",
+   - "email":"",
+   - "password":""
 }
-Already sing in users :
+# Already sing in users :
 "username":"user1"
 "password":"user123",
 
