@@ -14,8 +14,8 @@
  "password":"adminadmin1",
 
 # Before starting the project you must go on  "npm install" on both terminals:
-mymusicplayer2
-mymusicplayer2(Backend)
+- mymusicplayer2
+- mymusicplayer2(Backend)
 
 # And after that you can start the project with this commands :
 
